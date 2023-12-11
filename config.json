@@ -3,7 +3,7 @@
   "username": "bderraz",
   "name": "Bilal Derraz",
   "userimg": "https://avatars.githubusercontent.com/u/123488593?v=4",
-  "sort": "created",
+  "sort": "full_name",
   "order": "asc",
   "includeFork": false,
   "theme": "light.css",
