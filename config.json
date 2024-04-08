@@ -3,10 +3,10 @@
   "username": "bderraz",
   "name": "Bilal Derraz",
   "userimg": "https://avatars.githubusercontent.com/u/123488593?v=4",
-  "sort": "created",
+  "sort": "updated",
   "order": "asc",
   "includeFork": false,
-  "theme": "light.css",
+  "theme": "dark.css",
   "types": [
    "owner"
   ],
